@@ -1,0 +1,32 @@
+CART001 : [9-1-2019] : CUSTOMER001 : F_TEST L_TEST Have 0 Reward Points.
+
+P003 [This is Product 3.]
+Unit Price : 10
+Quantity    : 5
+Total Price : 50
+
+P001 [This is Product 1.]
+Unit Price : 11
+Quantity    : 14
+Total Price : 154
+
+P002 [This is Product 2.]
+Unit Price : 15
+Discounted Price : 9 [0.4]
+Quantity    : 10
+Total Price : 90
+
+P004 [This is Product 4.]
+Unit Price : 20
+Quantity    : 11
+Total Price : 220
+
+P005 [This is Product 5.]
+Unit Price : 22
+Discounted Price : 11 [0.5]
+Quantity    : 15
+Total Price : 165
+
+
+Number of items in the cart : 5
+Overall total price : 679
